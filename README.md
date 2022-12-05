@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Search Movies Example App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project Demo
+
+The working version can be viewed on [GitHub Pages](https://yomche.github.io/movies-search-app/)
 
 ## Available Scripts
 
